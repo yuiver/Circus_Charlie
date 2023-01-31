@@ -3,26 +3,26 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class LoginScene : BaseScene
+public class TitleScene : BaseScene
 {
     protected override void Init()
     { 
         base.Init();
 
-        SceneType = Define.Scene.Login;
+        SceneType = Define.Scene.Title;
     }
 
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Q))
         {
-            Managers.Scene.LoadScene(Define.Scene.Game);
+            Managers.Scene.LoadScene(Define.Scene.GameStage01);
         }
     }
 
     public override void Clear()
     {
-        Debug.Log("LoginScene Clear!");
+        Debug.Log("TitleScene Clear!");
     }
 
 }

@@ -8,7 +8,7 @@ public class GameScene : BaseScene
     { 
         base.Init();
 
-        SceneType = Define.Scene.Game;
+        SceneType = Define.Scene.GameStage01;
 
         //Managers.Resource.Instantiate("UI/UI_Button");
 

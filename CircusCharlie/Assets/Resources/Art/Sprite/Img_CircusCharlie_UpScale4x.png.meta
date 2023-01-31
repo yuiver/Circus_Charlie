@@ -1,0 +1,1931 @@
+fileFormatVersion: 2
+guid: 571396808c994c04ca4b066133dc7420
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_0
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1292
+        width: 65
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2105bfda438721429cbd7846d063688
+      internalID: 1105091649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1292
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c5736029a126741aa75b9e93f6d006
+      internalID: 1273744727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1292
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca1451da10d4844c82c1ca292ba8a05
+      internalID: -1605521331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_3
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1292
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed0383fc3d9cfe4fb614d370a49c357
+      internalID: -653014630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_4
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1292
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a6d175d81ba6a41952107decefc706
+      internalID: -1492884298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_5
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1288
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7ee30a12280ae4b879524b4b21176a
+      internalID: -1227250697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_6
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1292
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc4a72532778444db03fdfd3574d137
+      internalID: 1056663330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1292
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e3d1e60dd63b6478b5590bcafcd6f7
+      internalID: -1827405065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1184
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9f5bc7b535c27498f5f5de4e2138a3
+      internalID: 1055814344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1184
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441706eae92befa47b604f382c8e8584
+      internalID: 300819219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1184
+        width: 65
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc84d50ea8d8a7429fd93f7b528cd74
+      internalID: -2119753696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1184
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d55f10d1a0bbd4190866ee9d19efb7
+      internalID: -1948998339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_12
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1184
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73721b7be1191e45808e0945d8fa9da
+      internalID: 1000975283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_13
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1184
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c52423a8f42a9b49b338a5e6cf86bc2
+      internalID: 789476701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_14
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1260
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff253c095d2b3148b0d4b12ee1d2a8e
+      internalID: -1459663223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_15
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1268
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad28782fbb9080841a480454f6091916
+      internalID: 1100435019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_16
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287ccfe8c7986fe478a8f18a82adcdf9
+      internalID: 1282351293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_17
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1184
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f21a924070800046b4cc0c0e1d9bf35
+      internalID: -824573420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_18
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1260
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ed8ed1b3262264690d4e06ab761b6d
+      internalID: 381533588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1268
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4143d036eee2e3a47afd9a1bb481bc82
+      internalID: -449462454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_20
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1260
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eddea12ec2b3e4468be04bf44084cac
+      internalID: -1405056406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_21
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1184
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c13a6908c3ef954cb4019c8fec482e6
+      internalID: 292087525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_22
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1184
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2559dde4e69c52840850ace1f37ac206
+      internalID: -1088893349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_23
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1184
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715fee88ec4b2a9408f663710d0aabd7
+      internalID: -1716008195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_24
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1183
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e1e9b4547d414087534de9f7669eb
+      internalID: -1136196446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_25
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1184
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d573d9c4ca0a91448711af1cd7841fc
+      internalID: 1206371049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1080
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e1a323662db0b4b88f1f6666c03d2a
+      internalID: -1380855164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1080
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60184c02f49b8040aedd3e8216b0f60
+      internalID: -1618856052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1080
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa5cb907246eaa499289c7134c5cabe
+      internalID: -1939011615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_29
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1080
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2ebc4d4e5d548448a300c443d49f7a
+      internalID: 927191197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_30
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1080
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1780ae0094516ef419be7fa32a87188c
+      internalID: -1811948589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_31
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1080
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec0790f62f3c9e4dbf22ee604a52923
+      internalID: 16113693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_32
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1080
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b989bbd562d0246a34ca632d237dea
+      internalID: -657218304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_33
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1080
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f132960cfab88f14f96a1ba80d022df2
+      internalID: 918975143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_34
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 996
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bded09b02828c24bafcd7e5ae998031
+      internalID: -39956099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 996
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f92f00d4b5205644b046ae7c7aaa211
+      internalID: -1317887576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_36
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 996
+        width: 124
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a0d5ccae81f7f4bbd3b627918dba86
+      internalID: -18937232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_37
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 996
+        width: 132
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290738bb2f1868b408f261bbfb4f0408
+      internalID: 1822313319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_38
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 992
+        width: 132
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5596198146f2f574895bd3b5b535eafc
+      internalID: 506531534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 996
+        width: 125
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e885dc53d56a2ef44aa8051cfbefe67c
+      internalID: 1889987568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_40
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 996
+        width: 129
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d408778d37c6b49ad8d21a2683b594
+      internalID: -1039243612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_41
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 996
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105a9c4d0bb8b014fb9fa9b9242545fc
+      internalID: 1178676908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_42
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ec7f75a2370bf49a96c6760e047327
+      internalID: -1110603801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_43
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd1d70ecc58a104ab945dcf1d78ebfd
+      internalID: 1665904437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_44
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 920
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0588b6a07759e843975ee45e0e4d0bb
+      internalID: 1797219373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_45
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 920
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5125ccb9c93d9a43ace3cb132bb1dcd
+      internalID: -712938284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_46
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 920
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd728992c85e4294c843c84af64513dd
+      internalID: 1074919868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_47
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 920
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b311a6879b7c86c44aa62ed09b7266e9
+      internalID: 102286363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_48
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c80b9eb087017f478afb970b7033e26
+      internalID: 85612793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_49
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777dbec98d29ba741b43b57d76849509
+      internalID: -1652558295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_50
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 848
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacc822867071854fb0ebe19232a4a88
+      internalID: -1127678656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 848
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49fd172388c7bf4db354695a7d3df15
+      internalID: -1856456084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_52
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 848
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e902dfaaf3d65408372987c52cda40
+      internalID: 1052607400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_53
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 848
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086b29a5a2e4f5f42a0a2b5cbf27072c
+      internalID: -1600280581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_54
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 848
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9c538da8a25ee42a4377572d6bcb2f
+      internalID: -634523800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_55
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 848
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59ddd38d3f06db40bbc60b0b0bc6956
+      internalID: -1155434871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_56
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 848
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6659f00eca1bf4f8d5f6ce1f73a2c3
+      internalID: 933539552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_57
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 848
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fe59da3950f874dac69c36fbcd4c6b
+      internalID: 983816596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 496
+        width: 100
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6b5d1a7493a3242a7df6cee899500c
+      internalID: -1069186490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_59
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 508
+        width: 96
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0463bd0d0c831b4ca11755ff65eb3b2
+      internalID: 1878594264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_60
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 508
+        width: 96
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93461a57cf07c4e46927f08606ead4fb
+      internalID: 1345017943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_61
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 508
+        width: 96
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e41d3ec956cb94e880f4af65e63aa1
+      internalID: -905100967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_62
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 496
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ac05a58aba62d499222d4a3eb7cba0
+      internalID: -1613903894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_63
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 508
+        width: 96
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152078ce7373bca479e862019870372d
+      internalID: 774987960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_64
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 348
+        width: 148
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61869f107905554bb20c6fd558287de
+      internalID: -1587743543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_65
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 348
+        width: 149
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1385adc53a068747a1c8bd11f9aea3d
+      internalID: 1094243012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_66
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 348
+        width: 154
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4802b5e25ae420a42a1083d7b883a3d2
+      internalID: 1035527416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_67
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 340
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875f972fcec748644a64dd73b81c91a1
+      internalID: -2023870133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_68
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 100
+        width: 188
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fb26797ffb7124a94fc71da58bbb74
+      internalID: 754510400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_69
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 224
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32e29d5fe1ff9945831eb94305ca6ff
+      internalID: -1089617002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_70
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 224
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcf01253da14724b8cb0659c0a1c597
+      internalID: -1472195614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_71
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fffa341b351cdd48903aa8181e42acc
+      internalID: -176018613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_72
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7fc963e8d79404c8cbba4091e91fd7
+      internalID: 907886832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_73
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 100
+        width: 188
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7589f9d5f1f161f46865d7c05c3fed9c
+      internalID: 1317398719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 100
+        width: 181
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d3f2d9e9ddbe644b99a4e97be96b88
+      internalID: -544049392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_75
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 100
+        width: 192
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594a44b73fc8f06408fde97ca54f5a1f
+      internalID: 909112808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_76
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 99
+        width: 192
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42c2f7f6b1fd6e408dfcfe14314e0df
+      internalID: 1340855796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_77
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 100
+        width: 180
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b045bcc372922ff40b08ea599cb2c525
+      internalID: 1039774865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_78
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 40
+        width: 200
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc0414564799a54ba64850855d41e0b
+      internalID: -45932992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_CircusCharlie_UpScale4x_79
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 24
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82576e1e31ef9ab45951133933b07217
+      internalID: -1755667727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Img_CircusCharlie_UpScale4x_65: 1094243012
+      Img_CircusCharlie_UpScale4x_36: -18937232
+      Img_CircusCharlie_UpScale4x_37: 1822313319
+      Img_CircusCharlie_UpScale4x_3: -653014630
+      Img_CircusCharlie_UpScale4x_38: 506531534
+      Img_CircusCharlie_UpScale4x_1: 1273744727
+      Img_CircusCharlie_UpScale4x_32: -657218304
+      Img_CircusCharlie_UpScale4x_21: 292087525
+      Img_CircusCharlie_UpScale4x_23: -1716008195
+      Img_CircusCharlie_UpScale4x_33: 918975143
+      Img_CircusCharlie_UpScale4x_44: 1797219373
+      Img_CircusCharlie_UpScale4x_43: 1665904437
+      Img_CircusCharlie_UpScale4x_7: -1827405065
+      Img_CircusCharlie_UpScale4x_75: 909112808
+      Img_CircusCharlie_UpScale4x_27: -1618856052
+      Img_CircusCharlie_UpScale4x_76: 1340855796
+      Img_CircusCharlie_UpScale4x_46: 1074919868
+      Img_CircusCharlie_UpScale4x_78: -45932992
+      Img_CircusCharlie_UpScale4x_51: -1856456084
+      Img_CircusCharlie_UpScale4x_31: 16113693
+      Img_CircusCharlie_UpScale4x_17: -824573420
+      Img_CircusCharlie_UpScale4x_52: 1052607400
+      Img_CircusCharlie_UpScale4x_59: 1878594264
+      Img_CircusCharlie_UpScale4x_16: 1282351293
+      Img_CircusCharlie_UpScale4x_2: -1605521331
+      Img_CircusCharlie_UpScale4x_63: 774987960
+      Img_CircusCharlie_UpScale4x_35: -1317887576
+      Img_CircusCharlie_UpScale4x_6: 1056663330
+      Img_CircusCharlie_UpScale4x_0: 1105091649
+      Img_CircusCharlie_UpScale4x_22: -1088893349
+      Img_CircusCharlie_UpScale4x_62: -1613903894
+      Img_CircusCharlie_UpScale4x_66: 1035527416
+      Img_CircusCharlie_UpScale4x_25: 1206371049
+      Img_CircusCharlie_UpScale4x_49: -1652558295
+      Img_CircusCharlie_UpScale4x_24: -1136196446
+      Img_CircusCharlie_UpScale4x_34: -39956099
+      Img_CircusCharlie_UpScale4x_48: 85612793
+      Img_CircusCharlie_UpScale4x_30: -1811948589
+      Img_CircusCharlie_UpScale4x_8: 1055814344
+      Img_CircusCharlie_UpScale4x_79: -1755667727
+      Img_CircusCharlie_UpScale4x_72: 907886832
+      Img_CircusCharlie_UpScale4x_70: -1472195614
+      Img_CircusCharlie_UpScale4x_9: 300819219
+      Img_CircusCharlie_UpScale4x_58: -1069186490
+      Img_CircusCharlie_UpScale4x_28: -1939011615
+      Img_CircusCharlie_UpScale4x_61: -905100967
+      Img_CircusCharlie_UpScale4x_12: 1000975283
+      Img_CircusCharlie_UpScale4x_40: -1039243612
+      Img_CircusCharlie_UpScale4x_29: 927191197
+      Img_CircusCharlie_UpScale4x_11: -1948998339
+      Img_CircusCharlie_UpScale4x_64: -1587743543
+      Img_CircusCharlie_UpScale4x_26: -1380855164
+      Img_CircusCharlie_UpScale4x_67: -2023870133
+      Img_CircusCharlie_UpScale4x_4: -1492884298
+      Img_CircusCharlie_UpScale4x_10: -2119753696
+      Img_CircusCharlie_UpScale4x_15: 1100435019
+      Img_CircusCharlie_UpScale4x_47: 102286363
+      Img_CircusCharlie_UpScale4x_57: 983816596
+      Img_CircusCharlie_UpScale4x_56: 933539552
+      Img_CircusCharlie_UpScale4x_41: 1178676908
+      Img_CircusCharlie_UpScale4x_45: -712938284
+      Img_CircusCharlie_UpScale4x_18: 381533588
+      Img_CircusCharlie_UpScale4x_54: -634523800
+      Img_CircusCharlie_UpScale4x_60: 1345017943
+      Img_CircusCharlie_UpScale4x_71: -176018613
+      Img_CircusCharlie_UpScale4x_73: 1317398719
+      Img_CircusCharlie_UpScale4x_55: -1155434871
+      Img_CircusCharlie_UpScale4x_69: -1089617002
+      Img_CircusCharlie_UpScale4x_68: 754510400
+      Img_CircusCharlie_UpScale4x_20: -1405056406
+      Img_CircusCharlie_UpScale4x_39: 1889987568
+      Img_CircusCharlie_UpScale4x_19: -449462454
+      Img_CircusCharlie_UpScale4x_14: -1459663223
+      Img_CircusCharlie_UpScale4x_50: -1127678656
+      Img_CircusCharlie_UpScale4x_74: -544049392
+      Img_CircusCharlie_UpScale4x_5: -1227250697
+      Img_CircusCharlie_UpScale4x_13: 789476701
+      Img_CircusCharlie_UpScale4x_42: -1110603801
+      Img_CircusCharlie_UpScale4x_77: 1039774865
+      Img_CircusCharlie_UpScale4x_53: -1600280581
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
