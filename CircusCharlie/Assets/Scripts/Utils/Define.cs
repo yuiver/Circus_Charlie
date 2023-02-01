@@ -33,5 +33,6 @@ public class Define
     public enum CameraMode
     { 
         QuaterView,
+        PlaneView,
     }
 }

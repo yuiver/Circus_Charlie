@@ -25,4 +25,9 @@ public class TitleScene : BaseScene
         Debug.Log("TitleScene Clear!");
     }
 
+    public void LoadSceneButton()
+    {
+        Managers.Scene.LoadScene(Define.Scene.GameStage01);
+    }
+
 }

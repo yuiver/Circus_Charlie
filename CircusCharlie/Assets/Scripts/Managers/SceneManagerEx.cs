@@ -19,6 +19,14 @@ public class SceneManagerEx
         string name =  System.Enum.GetName(typeof(Define.Scene), type);
         return name;
     }
+    public static void QuitThisGame()
+    {
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+#else
+                Application.Quit();
+#endif
+    }       // QuitThisGame()
 
     public void Clear()
     {

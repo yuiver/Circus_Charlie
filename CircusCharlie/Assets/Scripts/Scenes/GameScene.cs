@@ -12,7 +12,7 @@ public class GameScene : BaseScene
 
         //Managers.Resource.Instantiate("UI/UI_Button");
 
-        Managers.UI.ShowSceneUI<UI_Inven>();
+        //Managers.UI.ShowSceneUI<UI_Inven>();
         //Managers.UI.ShowPopupUI<UI_Button>();
 
         //UI_Button ui =
