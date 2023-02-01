@@ -262,9 +262,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 740
-        y: 1288
-        width: 60
-        height: 100
+        y: 1293
+        width: 64
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -282,9 +282,9 @@ TextureImporter:
       name: Img_CircusCharlie_UpScale4x_6
       rect:
         serializedVersion: 2
-        x: 816
-        y: 1292
-        width: 68
+        x: 820
+        y: 1293
+        width: 64
         height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -303,10 +303,10 @@ TextureImporter:
       name: Img_CircusCharlie_UpScale4x_7
       rect:
         serializedVersion: 2
-        x: 896
+        x: 904
         y: 1292
-        width: 72
-        height: 88
+        width: 64
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -955,9 +955,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 656
-        y: 995
+        y: 996
         width: 132
-        height: 66
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -976,9 +976,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 800
-        y: 995
+        y: 996
         width: 132
-        height: 66
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -998,7 +998,7 @@ TextureImporter:
         serializedVersion: 2
         x: 936
         y: 996
-        width: 129
+        width: 132
         height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1019,7 +1019,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1088
         y: 996
-        width: 128
+        width: 132
         height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1413,12 +1413,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Img_CircusCharlie_UpScale4x_60
+      name: FireCircle_R1
       rect:
         serializedVersion: 2
-        x: 544
+        x: 592
         y: 508
-        width: 96
+        width: 48
         height: 320
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1434,12 +1434,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Img_CircusCharlie_UpScale4x_61
+      name: FireCircle_R2
       rect:
         serializedVersion: 2
-        x: 660
-        y: 508
-        width: 96
+        x: 708
+        y: 509
+        width: 48
         height: 320
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1455,13 +1455,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Img_CircusCharlie_UpScale4x_62
+      name: FireBottle_1
       rect:
         serializedVersion: 2
         x: 780
-        y: 496
+        y: 508
         width: 96
-        height: 128
+        height: 126
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1476,13 +1476,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Img_CircusCharlie_UpScale4x_63
+      name: FireBottle_2
       rect:
         serializedVersion: 2
-        x: 884
+        x: 885
         y: 508
         width: 96
-        height: 132
+        height: 126
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1791,13 +1791,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Img_CircusCharlie_UpScale4x_78
+      name: FireCircle_L1
       rect:
         serializedVersion: 2
-        x: 416
-        y: 40
-        width: 200
-        height: 48
+        x: 544
+        y: 509
+        width: 48
+        height: 320
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1812,13 +1812,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Img_CircusCharlie_UpScale4x_79
+      name: FireCircle_L2
       rect:
         serializedVersion: 2
-        x: 648
-        y: 24
-        width: 192
-        height: 64
+        x: 660
+        y: 508
+        width: 48
+        height: 320
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1859,8 +1859,8 @@ TextureImporter:
       Img_CircusCharlie_UpScale4x_75: 909112808
       Img_CircusCharlie_UpScale4x_27: -1618856052
       Img_CircusCharlie_UpScale4x_76: 1340855796
+      FireBottle_2: 774987960
       Img_CircusCharlie_UpScale4x_46: 1074919868
-      Img_CircusCharlie_UpScale4x_78: -45932992
       Img_CircusCharlie_UpScale4x_51: -1856456084
       Img_CircusCharlie_UpScale4x_31: 16113693
       Img_CircusCharlie_UpScale4x_17: -824573420
@@ -1868,12 +1868,10 @@ TextureImporter:
       Img_CircusCharlie_UpScale4x_59: 1878594264
       Img_CircusCharlie_UpScale4x_16: 1282351293
       Img_CircusCharlie_UpScale4x_2: -1605521331
-      Img_CircusCharlie_UpScale4x_63: 774987960
       Img_CircusCharlie_UpScale4x_35: -1317887576
       Img_CircusCharlie_UpScale4x_6: 1056663330
       Img_CircusCharlie_UpScale4x_0: 1105091649
       Img_CircusCharlie_UpScale4x_22: -1088893349
-      Img_CircusCharlie_UpScale4x_62: -1613903894
       Img_CircusCharlie_UpScale4x_66: 1035527416
       Img_CircusCharlie_UpScale4x_25: 1206371049
       Img_CircusCharlie_UpScale4x_49: -1652558295
@@ -1882,18 +1880,19 @@ TextureImporter:
       Img_CircusCharlie_UpScale4x_48: 85612793
       Img_CircusCharlie_UpScale4x_30: -1811948589
       Img_CircusCharlie_UpScale4x_8: 1055814344
-      Img_CircusCharlie_UpScale4x_79: -1755667727
       Img_CircusCharlie_UpScale4x_72: 907886832
       Img_CircusCharlie_UpScale4x_70: -1472195614
       Img_CircusCharlie_UpScale4x_9: 300819219
       Img_CircusCharlie_UpScale4x_58: -1069186490
+      FireCircle_R1: 1345017943
       Img_CircusCharlie_UpScale4x_28: -1939011615
-      Img_CircusCharlie_UpScale4x_61: -905100967
+      FireBottle_1: -1613903894
       Img_CircusCharlie_UpScale4x_12: 1000975283
       Img_CircusCharlie_UpScale4x_40: -1039243612
       Img_CircusCharlie_UpScale4x_29: 927191197
       Img_CircusCharlie_UpScale4x_11: -1948998339
       Img_CircusCharlie_UpScale4x_64: -1587743543
+      FireCircle_L2: -1755667727
       Img_CircusCharlie_UpScale4x_26: -1380855164
       Img_CircusCharlie_UpScale4x_67: -2023870133
       Img_CircusCharlie_UpScale4x_4: -1492884298
@@ -1906,7 +1905,6 @@ TextureImporter:
       Img_CircusCharlie_UpScale4x_45: -712938284
       Img_CircusCharlie_UpScale4x_18: 381533588
       Img_CircusCharlie_UpScale4x_54: -634523800
-      Img_CircusCharlie_UpScale4x_60: 1345017943
       Img_CircusCharlie_UpScale4x_71: -176018613
       Img_CircusCharlie_UpScale4x_73: 1317398719
       Img_CircusCharlie_UpScale4x_55: -1155434871
@@ -1917,7 +1915,9 @@ TextureImporter:
       Img_CircusCharlie_UpScale4x_19: -449462454
       Img_CircusCharlie_UpScale4x_14: -1459663223
       Img_CircusCharlie_UpScale4x_50: -1127678656
+      FireCircle_L1: -45932992
       Img_CircusCharlie_UpScale4x_74: -544049392
+      FireCircle_R2: -905100967
       Img_CircusCharlie_UpScale4x_5: -1227250697
       Img_CircusCharlie_UpScale4x_13: 789476701
       Img_CircusCharlie_UpScale4x_42: -1110603801

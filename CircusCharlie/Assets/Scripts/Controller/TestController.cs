@@ -23,9 +23,9 @@ public class TestController : MonoBehaviour
     void Update()
     {
         
-        if (Input.GetKey(KeyCode.A))
-            transform.Translate(Vector2.left * Time.deltaTime * speed);
         if (Input.GetKey(KeyCode.D))
+            transform.Translate(Vector2.left * Time.deltaTime * speed);
+        if (Input.GetKey(KeyCode.A))
             transform.Translate(Vector2.right * Time.deltaTime * speed);
         // 스페이스바를 누르면(또는 누르고 있으면)
         if (Input.GetKeyDown(KeyCode.Space))
