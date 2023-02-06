@@ -85,6 +85,7 @@ SpriteAtlas:
   - {fileID: -1939011615, guid: 571396808c994c04ca4b066133dc7420, type: 3}
   - {fileID: -1652558295, guid: 571396808c994c04ca4b066133dc7420, type: 3}
   - {fileID: 85612793, guid: 571396808c994c04ca4b066133dc7420, type: 3}
+  - {fileID: -2023870133, guid: 571396808c994c04ca4b066133dc7420, type: 3}
   - {fileID: -653014630, guid: 571396808c994c04ca4b066133dc7420, type: 3}
   - {fileID: -1605521331, guid: 571396808c994c04ca4b066133dc7420, type: 3}
   - {fileID: 1273744727, guid: 571396808c994c04ca4b066133dc7420, type: 3}
@@ -113,7 +114,6 @@ SpriteAtlas:
   - {fileID: 1340855796, guid: 571396808c994c04ca4b066133dc7420, type: 3}
   - {fileID: 754510400, guid: 571396808c994c04ca4b066133dc7420, type: 3}
   - {fileID: 1039774865, guid: 571396808c994c04ca4b066133dc7420, type: 3}
-  - {fileID: -2023870133, guid: 571396808c994c04ca4b066133dc7420, type: 3}
   - {fileID: -1472195614, guid: 571396808c994c04ca4b066133dc7420, type: 3}
   - {fileID: 1035527416, guid: 571396808c994c04ca4b066133dc7420, type: 3}
   - {fileID: -176018613, guid: 571396808c994c04ca4b066133dc7420, type: 3}
@@ -172,6 +172,7 @@ SpriteAtlas:
   - Img_CircusCharlie_UpScale4x_28
   - Img_CircusCharlie_UpScale4x_49
   - Img_CircusCharlie_UpScale4x_48
+  - coin
   - Img_CircusCharlie_UpScale4x_3
   - Img_CircusCharlie_UpScale4x_2
   - Img_CircusCharlie_UpScale4x_1
@@ -200,7 +201,6 @@ SpriteAtlas:
   - Img_CircusCharlie_UpScale4x_76
   - Img_CircusCharlie_UpScale4x_68
   - Img_CircusCharlie_UpScale4x_77
-  - Img_CircusCharlie_UpScale4x_67
   - Img_CircusCharlie_UpScale4x_70
   - Img_CircusCharlie_UpScale4x_66
   - Img_CircusCharlie_UpScale4x_71

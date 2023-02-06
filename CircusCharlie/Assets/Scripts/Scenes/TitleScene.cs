@@ -10,6 +10,7 @@ public class TitleScene : BaseScene
         base.Init();
 
         SceneType = Define.Scene.Title;
+        
     }
 
     private void Update()
@@ -17,6 +18,7 @@ public class TitleScene : BaseScene
         if (Input.GetKeyDown(KeyCode.Q))
         {
             Managers.Scene.LoadScene(Define.Scene.GameStage01);
+            
         }
     }
 
@@ -28,6 +30,7 @@ public class TitleScene : BaseScene
     public void LoadSceneButton()
     {
         Managers.Scene.LoadScene(Define.Scene.GameStage01);
+        DataManager.stageCount++;
     }
 
 }

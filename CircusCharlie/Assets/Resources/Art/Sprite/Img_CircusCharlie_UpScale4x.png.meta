@@ -1560,13 +1560,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Img_CircusCharlie_UpScale4x_67
+      name: coin
       rect:
         serializedVersion: 2
         x: 872
-        y: 340
+        y: 347
         width: 56
-        height: 72
+        height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1859,7 +1859,7 @@ TextureImporter:
       Img_CircusCharlie_UpScale4x_75: 909112808
       Img_CircusCharlie_UpScale4x_27: -1618856052
       Img_CircusCharlie_UpScale4x_76: 1340855796
-      FireBottle_2: 774987960
+      Img_CircusCharlie_UpScale4x_77: 1039774865
       Img_CircusCharlie_UpScale4x_46: 1074919868
       Img_CircusCharlie_UpScale4x_51: -1856456084
       Img_CircusCharlie_UpScale4x_31: 16113693
@@ -1878,6 +1878,7 @@ TextureImporter:
       Img_CircusCharlie_UpScale4x_24: -1136196446
       Img_CircusCharlie_UpScale4x_34: -39956099
       Img_CircusCharlie_UpScale4x_48: 85612793
+      coin: -2023870133
       Img_CircusCharlie_UpScale4x_30: -1811948589
       Img_CircusCharlie_UpScale4x_8: 1055814344
       Img_CircusCharlie_UpScale4x_72: 907886832
@@ -1894,7 +1895,6 @@ TextureImporter:
       Img_CircusCharlie_UpScale4x_64: -1587743543
       FireCircle_L2: -1755667727
       Img_CircusCharlie_UpScale4x_26: -1380855164
-      Img_CircusCharlie_UpScale4x_67: -2023870133
       Img_CircusCharlie_UpScale4x_4: -1492884298
       Img_CircusCharlie_UpScale4x_10: -2119753696
       Img_CircusCharlie_UpScale4x_15: 1100435019
@@ -1916,12 +1916,12 @@ TextureImporter:
       Img_CircusCharlie_UpScale4x_14: -1459663223
       Img_CircusCharlie_UpScale4x_50: -1127678656
       FireCircle_L1: -45932992
+      FireBottle_2: 774987960
       Img_CircusCharlie_UpScale4x_74: -544049392
-      FireCircle_R2: -905100967
       Img_CircusCharlie_UpScale4x_5: -1227250697
       Img_CircusCharlie_UpScale4x_13: 789476701
+      FireCircle_R2: -905100967
       Img_CircusCharlie_UpScale4x_42: -1110603801
-      Img_CircusCharlie_UpScale4x_77: 1039774865
       Img_CircusCharlie_UpScale4x_53: -1600280581
   spritePackingTag: 
   pSDRemoveMatte: 0
